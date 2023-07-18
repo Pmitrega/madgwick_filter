@@ -40,6 +40,9 @@
 *.dSYM/
 *.su
 *.idb
+
+/build
+/.vscode
 *.pdb
 
 # Kernel Module Compile Results
